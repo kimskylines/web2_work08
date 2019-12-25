@@ -228,6 +228,6 @@ function login()
 	yanzhengma !=null && yanzhengma == code)
 	{
 		//alert("登录成功");
-		window.open("index.html?username="+username);
+		window.open("https://htmlpreview.github.io/?https://github.com/kimskylines/web2_work08/master/web2%202016011479%20%E9%87%91%E9%BC%8E%E9%BE%99%202016011501%E7%8E%8B%E5%BE%97%E6%B6%A6/index.html?username="+username);
 	}
 }
