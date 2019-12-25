@@ -1,6 +1,6 @@
 body
 {
-background-color:#6F605A;
+background-color:#6495ED;
 font-family:Arial, Helvetica, sans-serif;
 padding:0;
 font-size:12px;
@@ -554,7 +554,3 @@ text-decoration:none;
 padding:0 5px 0 5px;
 color:#afaeaf;
 }
-
-#big{position:absolute;width:400px;height:400px;border:2px solid #ddd;display:none;}
-#big div{position:absolute;top:0;left:0;width:400px;height:400px;opacity:0.5;filter:alpha(opacity=50);background:#fff url(img/loading.gif) 50% 50% no-repeat;}
-
